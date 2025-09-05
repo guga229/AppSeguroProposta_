@@ -95,6 +95,7 @@ dotnet test
 }
 ```
 
-Diagrama <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb2019de-c0b9-4487-acf4-46c727a69033" />
+Diagrama <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/eb2019de-c0b9-4487-acf4-46c727a69033" />
+
 
 
