@@ -21,9 +21,9 @@ O **PropostaService** é um microserviço responsável por gerenciar propostas d
 
 ```
 PropostaService
-├── Api           → Camada de apresentação (controllers)
+├── Api           → Camada de apresentação (controllers) e mensageria
 ├── Application   → Regras de negócio e validações
-├── Infrastructure→ Persistência e mensageria
+├── Infrastructure→ Persistência 
 ├── Domain        → Entidades e enums do domínio
 ```
 
@@ -98,6 +98,7 @@ dotnet test
 Diagrama
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/eb2019de-c0b9-4487-acf4-46c727a69033" />
+
 
 
 
